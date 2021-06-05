@@ -1,9 +1,14 @@
-Hi, I’m Natanael Filho
-I’m interested in Programming
+# Hi, I’m Natanael Filho
+## About
++ I've been in love with programming for 2 years
++ 
+```Python
+
 - 🌱 I’m currently learning Python
-f
-- 📫 Email: filhonatanael@gmail.com
-- Instagram
+
+```
+- 📫 filhonatanael@gmail.com
+- 📱 instagram: [@leanatan_sednanref](https://www.instagram.com/leanatan_sednanref/)
 
 ---
 
