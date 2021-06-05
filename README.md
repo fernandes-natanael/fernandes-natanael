@@ -18,7 +18,10 @@
 + 📫 filhonatanael@gmail.com
 + 📱 Instagram: [@leanatan_sednanref](https://www.instagram.com/leanatan_sednanref/)
 ---
+[![Linkedin: Natanael Filho](https://img.shields.io/badge/-NatanaelFilho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/NatanaelFilho/)](https://www.linkedin.com/in/natanael-fernandes-4a0054194/)
 
+![](https://komarev.com/ghpvc/?username=fernandes-natanael)
+---
 
 <a href="https://github.com/francisco1code/github-readme-statst">
   <img align="left"  height='140px' src="https://github-readme-stats.vercel.app/api?username=fernandes-natanael&show_icons=true&theme=dracula" />
