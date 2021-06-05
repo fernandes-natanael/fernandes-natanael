@@ -7,8 +7,12 @@
 - 🌱 I’m currently learning Python
 
 ```
-- 📫 filhonatanael@gmail.com
-- 📱 instagram: [@leanatan_sednanref](https://www.instagram.com/leanatan_sednanref/)
+
+## Get in touch
++ 📲 Find me on [Telegram](https://t.me/NatanaelFernandesCoelhoFilho)
++ 📫 filhonatanael@gmail.com
++ 📱 Instagram: [@leanatan_sednanref](https://www.instagram.com/leanatan_sednanref/)
+
 
 ---
 
