@@ -21,10 +21,12 @@
   }
 ```
 
----
 ## Get in touch
 
+<br/>
 <img  alt="GIF" align="right" height="160px" src="https://media.giphy.com/media/X7NFveezX68Cc/giphy.gif"/>
+
+
 
 + Find me on [Telegram](https://t.me/NatanaelFernandesCoelhoFilho)
 + filhonatanael@gmail.com
