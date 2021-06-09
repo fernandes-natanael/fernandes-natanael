@@ -1,4 +1,5 @@
-# Hi, I’m Natanael Filho
+<h1 style="color:#B0AAAB">Hi, I’m Natanael Filho!</h1>
+
 ##  About me
 <!-- 
 <img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/87/64/6c/87646c5cda56fa0f905d7021dcb7cb3f.gif"/> -->
@@ -21,12 +22,10 @@
   }
 ```
 
-## Get in touch
+## Get in touch 
 
 <br/>
-<img  alt="GIF" align="right" height="160px" src="https://media.giphy.com/media/X7NFveezX68Cc/giphy.gif"/>
-
-
+<img  alt="GIF" align="right" style = "border-radius: 50%;"height="160px" src="https://media.giphy.com/media/X7NFveezX68Cc/giphy.gif"/>
 
 + Find me on [Telegram](https://t.me/NatanaelFernandesCoelhoFilho)
 + filhonatanael@gmail.com
@@ -34,7 +33,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/natanael-fernandes-4a0054194/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/leanatan_sednanref/)
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 <a href="https://github.com/francisco1code/github-readme-statst">
   <img align="left"  height='140px' src="https://github-readme-stats.vercel.app/api?username=fernandes-natanael&show_icons=true&theme=dracula" />
