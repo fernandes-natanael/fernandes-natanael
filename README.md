@@ -1,35 +1,38 @@
-## Hi, I’m Natanael Filho
-### 🔥 About me
+# Hi, I’m Natanael Filho
+##  About me
 <!-- 
 <img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/87/64/6c/87646c5cda56fa0f905d7021dcb7cb3f.gif"/> -->
 
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif"/>
-<br/>
+<!-- <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif"/>
+<br/> -->
 
++ I've been in love with programming for 2 years
++ Software engineering student
++ Practicing calisthenics
 
-+ ❤️ I've been in love with programming for 2 years
-+ 📙 Software engineering student
-+ 💪 Practicing calisthenics
-
-### New topic
+### Skills and goals
 
 ```Python
   Natanael Filho = {
     "code": ["C", "Java", "HTML 5", "CSS"],
+    "design": ["Figma", "Photoshop"],
     "learningAbout" : ["JavaScript", "React.js", "Python", "Django"],
     "currentGoal": ["Learn more about mobile development", "Contribuite more to the community"]
   }
 ```
 
 ---
-### ☎️ Get in touch
-+ 📲 Find me on [Telegram](https://t.me/NatanaelFernandesCoelhoFilho)
-+ 📫 filhonatanael@gmail.com
+## Get in touch
+
+<img  alt="GIF" align="right" height="120px" src="https://media.giphy.com/media/cluiY1nMoHWd9o6Uej/giphy.gif"/>
+
++ Find me on [Telegram](https://t.me/NatanaelFernandesCoelhoFilho)
++ filhonatanael@gmail.com
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/natanael-fernandes-4a0054194/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/leanatan_sednanref/)
 
----
+<br/><br/><br/>
 
 <a href="https://github.com/francisco1code/github-readme-statst">
   <img align="left"  height='140px' src="https://github-readme-stats.vercel.app/api?username=fernandes-natanael&show_icons=true&theme=dracula" />
