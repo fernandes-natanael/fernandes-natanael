@@ -3,7 +3,7 @@
 <!-- 
 <img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/87/64/6c/87646c5cda56fa0f905d7021dcb7cb3f.gif"/> -->
 
-<img align="right" alt="GIF" height="120px" src="https://www.thecoli.com/media/monkey-with-a-walkman-gif.20711/full"/>
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif"/>
 
 + ❤️ I've been in love with programming for 2 years
 + 📙 Software engineering student
