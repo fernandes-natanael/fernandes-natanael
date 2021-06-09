@@ -3,13 +3,16 @@
 <!-- 
 <img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/87/64/6c/87646c5cda56fa0f905d7021dcb7cb3f.gif"/> -->
 
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif"/>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif"/>
 
+<br/>
+<br/>
 <br/>
 
 + ❤️ I've been in love with programming for 2 years
 + 📙 Software engineering student
 + 💪 Practicing calisthenics
+
 ### New topic
 
 ```Python
