@@ -5,6 +5,8 @@
 
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif"/>
 
+<br/>
+
 + ❤️ I've been in love with programming for 2 years
 + 📙 Software engineering student
 + 💪 Practicing calisthenics
