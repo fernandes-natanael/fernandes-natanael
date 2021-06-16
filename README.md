@@ -17,7 +17,7 @@
   Natanael Filho = {
     "code": ["C", "Java", "HTML 5", "CSS"],
     "design": ["Figma", "Photoshop"],
-    "learningAbout" : ["JavaScript", "React.js", "Python", "Django"],
+    "learningAbout" : ["Flutter", "Dart", "Python", "Django"],
     "currentGoal": ["Learn more about mobile development", "Contribuite more to the community"]
   }
 ```
