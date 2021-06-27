@@ -24,12 +24,11 @@
 
 ### Contact me
 
-<br/>
 <img  alt="GIF" align="right" height="160px" src="https://media.giphy.com/media/X7NFveezX68Cc/giphy.gif"/>
 
 [<img src="./img/linktree-button.png">](https://linktr.ee/natalfernandes)
 
-<br/><br/><br/><br><br/><br/>
+<br/><br/><br/><br><br/>
 ### Github stats
 
 <a href="https://github.com/francisco1code/github-readme-statst">
