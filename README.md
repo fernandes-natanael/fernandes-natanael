@@ -29,6 +29,8 @@
 
 [<img src="./img/linktree-button.png">](https://linktr.ee/natalfernandes)
 
+### Github stats
+
 <br/><br/>
 
 <a href="https://github.com/francisco1code/github-readme-statst">
