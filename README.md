@@ -22,16 +22,12 @@
   }
 ```
 
-## Get in touch 
+### Contact me
 
 <br/>
 <img  alt="GIF" align="right" style = "border-radius: 50%;"height="160px" src="https://media.giphy.com/media/X7NFveezX68Cc/giphy.gif"/>
 
-+ Find me on [Telegram](https://t.me/NatanaelFernandesCoelhoFilho)
-+ filhonatanael@gmail.com
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/natanael-fernandes-4a0054194/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/leanatan_sednanref/)
+[<img src="./img/linktree-button.png">](https://linktr.ee/natalfernandes)
 
 <br/><br/>
 
