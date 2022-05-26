@@ -15,10 +15,10 @@
 
 ```Python
   Natanael Filho = {
-    "code": ["C", "Java", "HTML 5", "CSS"],
+    "code": ["Java", "Python", "Rust" "HTML 5", "CSS"],
     "design": ["Figma", "Photoshop"],
-    "learningAbout" : ["Flutter", "Dart", "Python", "Django"],
-    "currentGoal": ["Learn more about mobile development", "Contribuite more to the community"]
+    "learningAbout" : ["Spring", "Django"],
+    "currentGoal": ["Learn more about backend development", "Learn more about security software development" "Start to contribute more with the open source community"]
   }
 ```
 
