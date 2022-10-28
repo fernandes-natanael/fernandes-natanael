@@ -7,18 +7,18 @@
 <!-- <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/VXJWhaO7afRe/giphy.gif"/>
 <br/> -->
 
-+ I've been in love with programming for 2 years
++ I've been in love with programming for over 2 years
 + Software engineering student
 + Practicing calisthenics
 
 ### Skills and goals
 
-```Python
+```Javascript
   Natanael Filho = {
-    "code": ["Java", "Python", "Rust" "HTML 5", "CSS"],
-    "design": ["Figma", "Photoshop"],
-    "learningAbout" : ["Spring", "Django"],
-    "currentGoal": ["Learn more about backend development", "Learn more about security software development" "Start to contribute more with the open source community"]
+    code: ["Javascript", "Typescript", "Java", "Python", "Rust"],
+    design: ["Figma", "Photoshop"],
+    learningAbout: ["Appium", "Flutter", "Graphql API"],
+    currentGoal: ["Learn more about software quality", "Learn more about software testing", "Spend time developing Indie games", "More contribution with the open source community"]
   }
 ```
 
