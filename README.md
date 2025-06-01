@@ -1,13 +1,5 @@
-```bash
- _   _ ___ _        __  
-| | | |_ _| |    _  \ \ 
-| |_| || || |   (_)  | |
-|  _  || ||_|    _   | |
-|_| |_|___(_)   (_)  | |
-                    /_/ 
-```
 
-### Contact me
+## Contact me
 
 <img  alt="GIF" height="123px" style="border-radius: 50%;" src="https://media.giphy.com/media/X7NFveezX68Cc/giphy.gif"/>
 
@@ -15,7 +7,7 @@
 
 
 
-### Github stats
+## Github stats
 
 <a href="https://github.com/francisco1code/github-readme-statst">
   <img align="left"  height='140px' src="https://github-readme-stats.vercel.app/api?username=fernandes-natanael&show_icons=true&theme=dracula" />
